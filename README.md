@@ -33,5 +33,5 @@ This project provides a lightweight, distraction-free Pomodoro timer you can use
 │── README.md # Project documentation
 
 ## 👾 LIVE DEMO
- [click](https://github.com/shreedivya19/pomodoro-timer/)
+ [click](https://shreedivya19.github.io/pomodoro-timer/)
  
